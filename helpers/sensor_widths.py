@@ -6,3 +6,4 @@ APS_C = 23.5e-3 # Fuji APS-C
 FULLFRAME = 35e-3
 MEDIUM_FORMAT_FUJI = 43.9e-3 # Fuji GFX models
 MEDIUM_FORMAT_FILM = 60e-3 # Film medium format (Hasselblad 500 etc.)
+IPHONE_18_PRO = 9.84e-3 # 1/1.28" main camera (8064 px x 1.22 um)
